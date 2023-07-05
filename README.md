@@ -1,2 +1,2 @@
 # WheaderApp
-The Weather App, developed by Yousof Rahimian in Python, uses OpenWeatherMap's API to retrieve weather information. 
+The Weather App, developed by Yousof Rahimian in Python, uses OpenWeatherMap's API to retrieve weather information. It offers users real-time, high, and low temperatures, humidity levels, wind speed, wind direction, and a concise weather description for a chosen location. Users can input either city names or US zip codes. Additionally, temperature units can be customized to Celsius, Fahrenheit, or Kelvin. 
